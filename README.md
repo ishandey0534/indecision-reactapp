@@ -18,3 +18,8 @@ Add tasks and click the big button to choose a task randomly.
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+##Deploy
+
+Deployed on heroku. You can check it out here: 
+https://ishanindecisionapp.herokuapp.com/
