@@ -19,7 +19,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-##Deploy
+## Deploy
 
 Deployed on heroku. You can check it out here: 
 https://ishanindecisionapp.herokuapp.com/
